@@ -65,4 +65,40 @@ Our expertise and passion is delivering beautiful flowers to the ones you love. 
         </div>
     </div>
 </div>
+
+<p class="p-5 m-2" style="text-align: center;">Other text n such</p>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col">
+            <div class="card border-black mb-3 p-2 m-5" style="max-width: 20rem;">
+             <div class="card-header">Header</div>
+             <img src="./images/Hflower1.jpeg" alt="pain">
+            <div class="card-body">
+              <h4 class="card-title">Warning card title</h4>
+             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
+        </div>
+        </div>
+        <div class="col">
+                <div class="card border-black mb-3 p-2 m-5" style="max-width: 20rem;">
+                <div class="card-header">Header</div>
+                 <img src="./images/Hflower2.jpeg" alt="pain">
+                 <div class="card-body">
+                 <h4 class="card-title">Warning card title</h4>
+                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+                </div>
+        </div>
+        <div class="col">
+                <div class="card border-black mb-3 p-2 m-5" style="max-width: 20rem;">
+                <div class="card-header">Header</div>
+                <img src="./images/Hflower3.jpeg" alt="pain">
+                <div class="card-body">
+                 <h4 class="card-title">Warning card title</h4>
+                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                 </div>
+            </div>
+        </div>
+    </div>
 </div>
