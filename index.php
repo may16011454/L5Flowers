@@ -102,3 +102,6 @@ Our expertise and passion is delivering beautiful flowers to the ones you love. 
         </div>
     </div>
 </div>
+
+<?php require __DIR__ . "/inc/footer.php"; ?>
+
