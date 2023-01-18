@@ -56,7 +56,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
                   <span class="text-danger"><?= $password['error'] ?? '' ?></span>
                 </div>
   
-              <button class="btn btn-primary btn-lg w-100 mb-4" type="submit">Login</button>
+              <button class="btn btn-dark btn-lg w-100 mb-4" type="submit">Login</button>
               <a class="btn btn-secondary btn-lg w-100" type="submit" href="./register.php" >Not got an account?</a>
 
 
