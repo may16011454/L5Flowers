@@ -67,7 +67,9 @@ Our expertise and passion is delivering beautiful flowers to the ones you love. 
     </div>
 </div>
 
-<p class="p-5 m-2" style="text-align: center;">Other text n such</p>
+<p class="p-5 m-2" style="text-align: center;">
+They are hand created stylishly wrapped and arranged and delivered by hand to their door for whenever you need them whatever the occasion so once you’ve ordered online you can leave all the hard work to us to ensure that your flowers and gifts are delivered and presented to your special someone. If you don’t wish to order on line then speak to our friendly team on 01823 254 646. We are sure you will be delighted with our service, So make someone you care about smile today.
+
 
 <div class="container-fluid">
     <div class="row">

@@ -34,7 +34,7 @@
 
   }
 ?>
-?>
+
 <form method="post" action=" <?= htmlspecialchars($_SERVER['PHP_SELF']) ?>">
   <section class="vh-100">
     <div class="container py-5 h-75">

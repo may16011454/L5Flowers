@@ -6,6 +6,7 @@ class Controllers {
 
     protected $db = null;
     protected $users = null;
+    protected $products = null;
 
     public function __construct()
     {
@@ -36,5 +37,13 @@ class Controllers {
             $this->users = new MemberController($this->db);
         }
         return $this->users;
+    }
+
+    public function products()
+    {
+        if ($this->products === null) {
+            $this->products = new ProductController($this->db);
+        }
+        return $this->products;
     }
 }
